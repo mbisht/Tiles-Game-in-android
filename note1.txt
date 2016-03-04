@@ -1,0 +1,16 @@
+software requirements:
+
+1.eclipse
+2.java
+
+Import the project into the eclipse and start editing.
+
+Game feature:
+1.Action game
+2.High score
+3.speed increase
+4.Diffrent type
+
+
+
+
